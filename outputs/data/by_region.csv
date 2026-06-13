@@ -1,0 +1,12 @@
+region,city,orders,revenue,return_rate_pct
+West,Mumbai,5,95303.48,0.0
+South,Chennai,2,72298.2,0.0
+South,Hyderabad,2,66725.0,50.0
+West,Pune,3,44496.15,0.0
+North,Delhi,5,28529.75,0.0
+East,Kolkata,5,24397.4,40.0
+South,Bangalore,3,22073.0,0.0
+North,Noida,2,18630.68,0.0
+North,Jaipur,1,12596.4,0.0
+East,Bhubaneswar,1,6998.0,100.0
+North,Gurgaon,1,5845.5,0.0

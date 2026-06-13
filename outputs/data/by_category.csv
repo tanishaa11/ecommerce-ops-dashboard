@@ -1,0 +1,8 @@
+category,sub_category,orders,units_sold,revenue
+Furniture,Seating,3,14,104975.0
+Furniture,Desks,2,9,100500.0
+Electronics,Audio,7,27,61852.33
+Appliances,Kitchen,6,10,53636.93
+Sports,Footwear,5,10,34490.6
+Sports,Fitness,5,28,24262.7
+Furniture,Storage,2,6,18176.0

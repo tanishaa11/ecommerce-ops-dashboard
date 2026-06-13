@@ -1,0 +1,12 @@
+product_name,category,total_orders,total_returns,return_rate_pct
+Ergonomic Chair,Furniture,3,1,33.33
+Running Shoes X,Sports,3,1,33.33
+Yoga Mat Pro,Sports,3,1,33.33
+Wireless Headphones,Electronics,4,1,25.0
+Air Fryer Pro,Appliances,3,0,0.0
+Coffee Maker Deluxe,Appliances,3,0,0.0
+Formal Sneakers,Sports,2,0,0.0
+Noise Cancel Buds,Electronics,3,0,0.0
+Office Bookshelf,Furniture,2,0,0.0
+Resistance Bands,Sports,2,0,0.0
+Standing Desk,Furniture,2,0,0.0
